@@ -1,0 +1,102 @@
+[
+    {
+        "key": 1,
+        "nombre": "JIRAFA",
+        "imagen": "tarjetz"
+    },
+    {
+        "key": 2,
+        "nombre": "PERRO",
+        "imagen": "tarjety"
+    },
+    {
+        "key": 3,
+        "nombre": "CABALLO",
+        "imagen": "tarjetx"
+    },
+    {
+        "key": 4,
+        "nombre": "LEON",
+        "imagen": "tarjetv"
+    },
+    {
+        "key": 5,
+        "nombre": "COCODRILO",
+        "imagen": "tarjetu"
+    },
+    {
+        "key": 6,
+        "nombre": "CHITA",
+        "imagen": "tarjett"
+    },
+    {
+        "key": 7,
+        "nombre": "OVEJA",
+        "imagen": "tarjetg"
+    },
+    {
+        "key": 8,
+        "nombre": "PANDA",
+        "imagen": "tarjets"
+    },
+    {
+        "key": 9,
+        "nombre": "CERDO",
+        "imagen": "tarjetr"
+    },
+    {
+        "key": 10,
+        "nombre": "RINOCERONTE",
+        "imagen": "tarjetq"
+    },
+    {
+        "key": 11,
+        "nombre": "TIGRE",
+        "imagen": "tarjetp"
+    },
+    {
+        "key": 12,
+        "nombre": "CEBRA",
+        "imagen": "tarjeto"
+    },
+    {
+        "key": 13,
+        "nombre": "VACA",
+        "imagen": "tarjetn"
+    },
+    {
+        "key": 14,
+        "nombre": "CONEJO",
+        "imagen": "tarjetm"
+    },
+    {
+        "key": 15,
+        "nombre": "MONO",
+        "imagen": "tarjetl"
+    },
+    {
+        "key": 16,
+        "nombre": "LEMUR",
+        "imagen": "tarjetk"
+    },
+    {
+        "key": 17,
+        "nombre": "OSO",
+        "imagen": "tarjetj"
+    },
+    {
+        "key": 18,
+        "nombre": "HIPOPOTAMO",
+        "imagen": "tarjeti"
+    },
+    {
+        "key": 19,
+        "nombre": "ELEFANTE",
+        "imagen": "tarjeth"
+    },
+    {
+        "key": 21,
+        "nombre": "CIERVO",
+        "imagen": "tarjetf"
+    }
+]
